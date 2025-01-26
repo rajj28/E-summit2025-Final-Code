@@ -9,6 +9,8 @@ This project develops an AI-powered solution to detect and prevent spam calls, d
 - 📞 **Spam Call Detection**: Converts call audio to text using AWS Transcribe and analyzes metadata and transcripts for fraud indicators.
 - 🎭 **Deepfake Detection in VKYC**: Uses Amazon Rekognition and machine learning models in Amazon SageMaker to identify facial and voice anomalies.
 - 💰 **Financial Fraud Detection**: Monitors transaction data using AWS Glue and SageMaker to detect suspicious activities.
+
+🚀 Innovative Approach: Combined GANs and Random Forest models to achieve 95% accuracy in fraud detection. 🌍 Real-World Applicability: Designed a scalable, future-proof fraud detection solution adaptable to payment systems like UPI. 👩‍💻 User-Centric Design: Created a responsive UI with Google Sign-In, dashboards, and real-time alerts. 🏆 DigiPay Pro NPCI Competition Highlights Award Ceremony.
   
 - ![68747470733a2f2f696d6775722e636f6d2f737553733448352e706e67](https://github.com/user-attachments/assets/e4a6ca86-8b17-4391-ae20-90867c3b4b14)
   
@@ -142,6 +144,6 @@ This project is licensed under the `MIT License`.
 
 ## 📬 Contact
 For queries, reach out to:
-- Name: Prashant Yadav
-- 📧 Email: py3030223@gmail.com
-- 🌐 GitHub: https://github.com/py3030223
+- Name: Ruturaj Rahul Sonkamble
+- 📧 Email: ruturajsonkamble29@gmail.com
+- 🌐 GitHub: https://github.com/rajj28/E-summit2025-Final-Code
