@@ -34,6 +34,9 @@ What sets this project apart:
 ## 🏗️ Architecture
 ![Workflow_Diagram](docs/workflowdiagram.png)
 
+![Blank diagram](https://github.com/user-attachments/assets/9dec395d-17a8-4a4a-9ea8-e4a3c8b44c10)
+
+
 1. **Data Ingestion**: 
    - Calls and VKYC session data uploaded to Amazon S3.
    - Transaction data ingested via AWS Glue.
@@ -61,9 +64,13 @@ What sets this project apart:
 ### **3. Deepfake Detection in VKYC**
 - Use Rekognition for facial analysis.
 - Train SageMaker models to detect anomalies in facial features and voice patterns.
+- ![Screen_Shot_2019_06_27_at_3 29 24_PM](https://github.com/user-attachments/assets/66307f9c-2382-464a-bc23-b09950f9a8d1)
+
 
 ### **4. Financial Fraud Detection**
 - Analyze transaction patterns using Glue and SageMaker anomaly detection algorithms.
+- ![WorkFlowDiagram](https://github.com/user-attachments/assets/5017ad99-10e7-4f82-9504-af749c8b60fd)
+
 
 ### **5. Real-Time Alerts**
 - Set up Amazon SNS for instant notifications.
