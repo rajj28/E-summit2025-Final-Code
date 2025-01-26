@@ -9,6 +9,15 @@ This project develops an AI-powered solution to detect and prevent spam calls, d
 - 📞 **Spam Call Detection**: Converts call audio to text using AWS Transcribe and analyzes metadata and transcripts for fraud indicators.
 - 🎭 **Deepfake Detection in VKYC**: Uses Amazon Rekognition and machine learning models in Amazon SageMaker to identify facial and voice anomalies.
 - 💰 **Financial Fraud Detection**: Monitors transaction data using AWS Glue and SageMaker to detect suspicious activities.
+  
+- ![68747470733a2f2f696d6775722e636f6d2f737553733448352e706e67](https://github.com/user-attachments/assets/e4a6ca86-8b17-4391-ae20-90867c3b4b14)
+  
+- ![68747470733a2f2f692e696d6775722e636f6d2f316d674f53386d2e706e67](https://github.com/user-attachments/assets/8780b2cb-6976-4286-ba28-df308a0b8954)
+  
+- ![68747470733a2f2f692e696d6775722e636f6d2f3641774c6847412e706e67](https://github.com/user-attachments/assets/23f75a60-b624-4593-b3cd-a268a0e71751)
+
+
+
 - ⚡ **Real-Time Alerts**: Sends immediate notifications to users via Amazon SNS when potential threats are detected.
 - 🔄 **User Feedback Loop**: Gathers user reports through a UI and incorporates feedback into system updates.
 
